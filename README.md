@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in Lua programming related to nil handling and implicit type conversion.  The `foo` function aims to add 1 to a number, but its behavior when receiving `nil` is unexpected. The solution showcases how to explicitly handle `nil` and avoid this issue.
